@@ -3,38 +3,42 @@
 
 # GridGuard – Smart Substation Dashboard
 
-A Windows Forms-based simulation dashboard built in C# to mimic real-world power substation monitoring. Ideal for power system engineers to visualize and interact with breaker logic, voltage/current fluctuations, and system health.
+A Windows Forms-based simulation dashboard built in C# to mimic real-world power substation monitoring. Ideal for power system engineers to visualize and interact with breaker logic, voltage or current fluctuations, and system health for monitoring.
 
 ---
 
-## 🎯 Features
+## Features
 
-- 📈 Real-time voltage & current graphing
-- 🚦 Smart breaker logic (trip/reset)
-- 🔔 Alarm notifications & visual indicators
-- 🌓 Dark mode toggle
-- 🧠 Technical Summary panel
-- 🧾 Log export to file (.txt)
-- 🎨 Clean, intuitive UI with branding
-
----
-
-## 🛠 Tech Stack
-
-- 💻 C# (.NET Framework)
-- 🧱 Windows Forms
-- 📊 System.Windows.Forms.DataVisualization.Charting
+- Real-time voltage & current graphing
+- Smart breaker logic (trip/reset)
+- Alarm notifications & visual indicators
+- Dark mode toggle (contains UI/UX)
+- Technical Summary panel
+- Log export to file (.txt)
+- Clean, intuitive UI with branding
 
 ---
 
-## 📸 Screenshot
+## Tech Stack and Languages
 
+- Visual Studio Community 2022
+- C# (.NET Framework)
+- Windows Forms
+- System.Windows.Forms.DataVisualization.Charting
+
+---
+
+## Projects Screenshots/Images 
+
+**After:**
 ![image](https://github.com/user-attachments/assets/641d6a12-814d-4f17-ac95-18e5f41d8983)
 
+**Before:**
+![image](https://github.com/user-attachments/assets/a68197f0-99f2-47df-a75a-b3e192233821)
 
 ---
 
-## What I Learned
+## Insights
 
 - Hands-on simulation of a substation environment
 - Data visualization & chart integration
@@ -44,9 +48,9 @@ A Windows Forms-based simulation dashboard built in C# to mimic real-world power
 
 ---
 
-## 👨‍💻 Author
+## Creator
 
 **Saffat Sharif**  
 3rd Year Electronic Systems Engineering Student  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🔗 [GitHub Portfolio](https://github.com/yourusername)
+[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/saffat-sharif-9205b9249/))  
+[GitHub Portfolio]([https://github.com/yourusername](https://github.com/saffat05/))
