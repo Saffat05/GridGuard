@@ -52,9 +52,4 @@ A Windows Forms-based simulation dashboard built in C# to mimic real-world power
 
 ---
 
-## Creator
 
-**Saffat Sharif**  
-3rd Year Electronic Systems Engineering Student  
-[LinkedIn]((https://www.linkedin.com/in/saffat-sharif-9205b9249/))  
-[GitHub Portfolio]((https://github.com/saffat05/))
