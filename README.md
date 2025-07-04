@@ -30,12 +30,12 @@ A Windows Forms-based simulation dashboard built in C# to mimic real-world power
 
 ## Projects Screenshots/Images 
 
-**After:**
+**After clicking 'Run' with the ongoing simulation:**
 
 
 ![image](https://github.com/user-attachments/assets/641d6a12-814d-4f17-ac95-18e5f41d8983)
 
-**Before:**
+**Before, when customizing the dashboard:**
 
 
 ![image](https://github.com/user-attachments/assets/a68197f0-99f2-47df-a75a-b3e192233821)
